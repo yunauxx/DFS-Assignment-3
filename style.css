@@ -13,14 +13,22 @@
     height: 100%;
     object-fit: cover;
 }
+
+.navbar {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /* text css above hero image*/
 .hero_title {
+    font-family: 'Times New Roman', Times, serif;
     font-size: 4.5rem;
 }
 .hero_desc {
+    font-family: 'Times New Roman', Times, serif;
     font-size: 2rem;
 }
 .hero-text {
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     position: absolute;
     top: 50%;
@@ -56,7 +64,9 @@
 #about, #artworks, #videos, #connect {
     margin-top: 4rem;
     padding-top: 4rem;
+    font-family: 'Times New Roman', Times, serif;
 }
 #connect {
     padding-bottom: 4rem;
 }
+
